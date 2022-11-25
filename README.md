@@ -2,7 +2,9 @@
 - 👀 I’m interested in learn Java, SQL, Javascript and HTML
 - 🌱 I’m currently learning Java, SQL and HTML
 
-<!---
-ElamRS/ElamRS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/ElamRS">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ElamRS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElamRS&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
