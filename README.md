@@ -2,7 +2,7 @@ Me chamo `Elam Rufino`, tenho 17 anos e em 2023 começarei a cursar o 3° ano do
 
 📚 Atualmente estudo `HTML`, `CSS`, `Javascript`, `SQL` e `Java`.
 
-:computer: Disponibilizarei aqui as atividades realizadas ao decorrer do curso, tal como projetos de interesse pessoal e desafios de programação. Sinta-se a vontade!
+:computer: Disponibilizarei aqui as atividades realizadas ao decorrer do curso, tal como projetos de interesse pessoal e desafios de programação.
 
 <div align="center">
   <a href="https://github.com/elamrs">
@@ -12,6 +12,4 @@ Me chamo `Elam Rufino`, tenho 17 anos e em 2023 começarei a cursar o 3° ano do
 </div>
 
 
-
-
-Coding is an art!
+`Coding is an art!`
