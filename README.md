@@ -1,4 +1,4 @@
-Me chamo `Elam Rufino`, tenho 18 anos e curso o 3° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`, câmpus `São Paulo`.
+Me chamo `Elam Rufino`, tenho 18 anos e curso o 4° ano do curso `Técnico em Informática` Integrado ao Ensino Médio, no `Instituto de Educação, Ciência e Tecnologia de São Paulo (IFSP)`, câmpus `São Paulo`.
 
 📚 Atualmente estudo `HTML`, `CSS`, `Javascript`,`C#`, `SQL` e `Java`.
 
